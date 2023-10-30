@@ -33,4 +33,4 @@ For those interested in the non-technical aspects of this project, such as desig
 
 ## Contact
 
-Please contact me at my [UWL Email](clements8984@uwlax.edu) or [connect with me on LinkedIn](https://linkedin.com/in/marcusbclements)!
+Please contact me at my [UWL Email](mailto:clements8984@uwlax.edu) or [connect with me on LinkedIn](https://linkedin.com/in/marcusbclements)!
