@@ -5,7 +5,7 @@
 
 The UWL Campus Safety App is a proposed project aimed at enhancing the safety and communication measures within the University of Wisconsin-La Crosse (UWL). The application seeks to provide students, staff, and the UWL Police with a technological tool to aid in ensuring a secure campus environment.
 
-## About the Developer
+## About the Developers
 
 Marcus Clements, a second-year student in the Computer Science program at UWL;
 
