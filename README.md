@@ -11,7 +11,7 @@ Marcus Clements, a second-year student in the Computer Science program at UWL;
 
 Alex White, a second-year student in the Computer Science program at UWL;
 
-have proposed the development of this app. With a growing proficiency in software development and customer service, he aims to make this solution a reality for all campus stakeholders.
+have proposed the development of this app. With a growing proficiency in software development and customer service, they aim to make this solution a reality for all campus stakeholders.
 
 ## Features
 
