@@ -11,13 +11,13 @@ Marcus Clements, a second-year student in the Computer Science program at UWL;
 
 Alex White, a second-year student in the Computer Science program at UWL;
 
-have proposed the development of this app. With a growing proficiency in software development and customer service, he aims to make this solution a reality for all campus stakeholders.
+have proposed the development of this app. With a growing proficiency in software development and customer service, they aim to make this solution a reality for all campus stakeholders.
 
 ## Features
 
 There are no official features at this time, as development has not yet begun.
 
-In the meantime, you can view the [Proposed Features](https://uwlax-my.sharepoint.com/:w:/g/personal/clements8984_uwlax_edu/ERM7KmF8rAVMtS5p7aUUJ04B1bWVjrAK4qZs43RPw-Q1Pg?e=tnB4cR) document. If you're logged into your UWL Office account, you can leave a comment to suggest a new feature.
+In the meantime, you can view the [Proposed Features](https://uwlax-my.sharepoint.com/:w:/g/personal/clements8984_uwlax_edu/ERM7KmF8rAVMtS5p7aUUJ04BOfve-LapKEWy_3l8E6IoBQ?e=W3rCYL) document. If you're logged into your UWL Office account, you can leave a comment to suggest a new feature.
 
 I aim to bring our campus solution to Android first, then port it to iOS at a later date.
 
