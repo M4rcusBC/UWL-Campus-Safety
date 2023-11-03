@@ -23,7 +23,7 @@ The development of this app seeks insights and expertise from various stakeholde
 
 For those interested in the non-technical aspects of this project, such as design, artwork, publicity/marketing, etc., don't be shy! I would love to work with anybody who's interested in making this dream a reality.
 
-To ensure compliance with UWL policy during the development process, our project will only use resources located at the [UWL Brand/Guides](https://www.uwlax.edu/brand/guides/). Exceptions to this rule will be carried out on a case-by-case basis, approved by the proper campus authority.
+To ensure compliance with UWL policy during the development process, our project will only use resources located at the [UWL Brand/Guides](https://www.uwlax.edu/brand/guides/) page. Exceptions to this rule will be carried out on a case-by-case basis, approved by the proper campus authority.
 
 ## About the Developers
 
