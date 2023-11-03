@@ -5,14 +5,6 @@
 
 The UWL Campus Safety App is a proposed project aimed at enhancing the safety and communication measures within the University of Wisconsin-La Crosse (UWL). The application seeks to provide students, staff, and the UWL Police with a technological tool to aid in ensuring a secure campus environment.
 
-## About the Developers
-
-Marcus Clements, a second-year student in the Computer Science program at UWL;
-
-Alex White, a second-year student in the Computer Science program at UWL;
-
-have proposed the development of this app. With a growing proficiency in software development and customer service, they aim to make this solution a reality for all campus stakeholders.
-
 ## Features
 
 There are no official features at this time, as development has not yet begun.
@@ -29,7 +21,17 @@ While we wait for this project to come to life, I have created a form to submit 
 
 The development of this app seeks insights and expertise from various stakeholders, including students, UWL Police, dispatchers, and IT staff. If you have suggestions, features or would like to collaborate, please reach out (or submit a pull request!). 
 
-For those interested in the non-technical aspects of this project, such as design, artwork, publicity/marketing, etc., don't be shy! I would love to work with anybody who's interested in making this dream of mine a reality.
+For those interested in the non-technical aspects of this project, such as design, artwork, publicity/marketing, etc., don't be shy! I would love to work with anybody who's interested in making this dream a reality.
+
+To ensure compliance with UWL policy during the development process, our project will only use resources located at the [UWL Brand/Guides](https://www.uwlax.edu/brand/guides/). Exceptions to this rule will be carried out on case-by-case basis, approved by the proper campus authority.
+
+## About the Developers
+
+Marcus Clements, a second-year student in the Computer Science program at UWL;
+
+Alex White, a second-year student in the Computer Science program at UWL;
+
+have proposed the development of this app. With a growing proficiency in software development and customer service, they aim to make this solution a reality for all campus stakeholders.
 
 ## Contact
 
