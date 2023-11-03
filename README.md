@@ -19,11 +19,11 @@ While we wait for this project to come to life, I have created a form to submit 
 
 [Access the Name Suggestion Form](https://forms.office.com/r/5dc9i7T9tQ) (UWL Office365 account required for access to prevent external input)
 
-The development of this app seeks insights and expertise from various stakeholders, including students, UWL Police, dispatchers, and IT staff. If you have suggestions, features or would like to collaborate, please reach out (or submit a pull request!). 
+The development of this app seeks insights and expertise from various stakeholders, including but not limited to students, UWL Police, dispatchers, and IT staff. If you have suggestions, features or would like to collaborate, please reach out (or submit a pull request!). 
 
 For those interested in the non-technical aspects of this project, such as design, artwork, publicity/marketing, etc., don't be shy! I would love to work with anybody who's interested in making this dream a reality.
 
-To ensure compliance with UWL policy during the development process, our project will only use resources located at the [UWL Brand/Guides](https://www.uwlax.edu/brand/guides/). Exceptions to this rule will be carried out on case-by-case basis, approved by the proper campus authority.
+To ensure compliance with UWL policy during the development process, our project will only use resources located at the [UWL Brand/Guides](https://www.uwlax.edu/brand/guides/). Exceptions to this rule will be carried out on a case-by-case basis, approved by the proper campus authority.
 
 ## About the Developers
 
